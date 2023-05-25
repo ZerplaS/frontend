@@ -49,7 +49,7 @@ export default function Home() {
             priority
           />
         </div>
-        <center> <h1>Perapong Potanont</h1> </center>
+        <center> <h1>Perapong Potanont 013</h1> </center>
         <div className={styles.grid}>
           <a
             href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
