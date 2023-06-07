@@ -7,7 +7,7 @@ import about from './about';
 import Shop from './shop';
 import info from './info';
 
-export default function Home() {
+export default function index() {
   return (
     <>
    
