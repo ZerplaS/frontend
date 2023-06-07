@@ -139,8 +139,7 @@ export default function Home() {
         <svg classname="bd-placeholder-img card-img-top" width="100%" height="{225}" xmlns="http://www.w3.org/2000/svg" role="img" preserveAspectRatio="xMidYMid slice" focusable="false">
   <title>Placeholder</title>
   <rect width="100%" height="100%" fill="#55595c" />
-  <image xlinkHref="/Data.jpg" width="100%" height="100%" preserveAspectRatio="xMidYMid slice" />
-</svg>
+  <image href="/Data.jpg" width="100%" height="100%" preserveAspectRatio="xMidYMid slice" /></svg>
           <div className="card-body">
             <p className="card-text">The service That make you safe to save</p>
             <div className="d-flex justify-content-between align-items-center">
@@ -157,10 +156,10 @@ export default function Home() {
         <svg classname="bd-placeholder-img card-img-top" width="100%" height="{225}" xmlns="http://www.w3.org/2000/svg" role="img" preserveAspectRatio="xMidYMid slice" focusable="false">
   <title>Placeholder</title>
   <rect width="100%" height="100%" fill="#55595c" />
-  <image xlinkHref="/NERD FOUND.png" width="100%" height="100%" preserveAspectRatio="xMidYMid slice" />
+  <image href="/NERD FOUND.png" width="100%" height="100%" preserveAspectRatio="xMidYMid slice" />
 </svg>
   <rect width="100%" height="100%" fill="#55595c" />
-  <image xlinkHref="/Room.jpg" width="100%" height="100%" preserveAspectRatio="xMidYMid slice" />
+  <Image href="/Room.jpg" width="100%" height="100%" preserveAspectRatio="xMidYMid slice" />
 
 
 
@@ -225,7 +224,7 @@ export default function Home() {
       <svg className="bi me-2" width={40} height={32}><use xlinkHref="#bootstrap" /></svg>
     </a>
     <ul className="nav col-md-4 justify-content-end">
-      <li className="nav-item"><a href="#" className="nav-link px-2 text-muted">Home</a></li>
+      <li className="nav-item"><a href="#" className="nav-link px-2 text-muted">HomePage</a></li>
       <li className="nav-item"><a href="#" className="nav-link px-2 text-muted">Features</a></li>
       <li className="nav-item"><a href="#" className="nav-link px-2 text-muted">Pricing</a></li>
       <li className="nav-item"><a href="#" className="nav-link px-2 text-muted">FAQs</a></li>

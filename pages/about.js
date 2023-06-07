@@ -15,7 +15,7 @@ export default function about() {
 <hr className="featurette-divider" />
 
               
-      <div>
+<div>
   <svg xmlns="http://www.w3.org/2000/svg" style={{display: 'none'}}>
     <symbol id="check2" viewBox="0 0 16 16">
       <path d="M13.854 3.646a.5.5 0 0 1 0 .708l-7 7a.5.5 0 0 1-.708 0l-3.5-3.5a.5.5 0 1 1 .708-.708L6.5 10.293l6.646-6.647a.5.5 0 0 1 .708 0z" />
@@ -75,7 +75,7 @@ export default function about() {
       </div>
     </div>
   </nav>
-  </div>
+</div>
 
 
 
@@ -93,7 +93,7 @@ export default function about() {
       
     <svg className="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width={500} height={500} xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 500x500" preserveAspectRatio="xMidYMid slice" focusable="false">
   <title>Placeholder</title>
-  <image href= '/dopge.jpg' width="100%" height="100%" />
+  <Image href= '/dopge.jpg' width="100%" height="100%" />
 </svg>
 
       
@@ -108,7 +108,7 @@ export default function about() {
     <div className="col-md-5 order-md-1">
     <svg className="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width={500} height={500} xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 500x500" preserveAspectRatio="xMidYMid slice" focusable="false">
   <title>Placeholder</title>
-  <image href= 'Robloxface.png' width="100%" height="100%" />
+  <Image href= 'Robloxface.png' width="100%" height="100%" />
 </svg>
     </div>
   </div>
@@ -121,7 +121,7 @@ export default function about() {
     <div className="col-md-5">
     <svg className="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width={500} height={500} xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 500x500" preserveAspectRatio="xMidYMid slice" focusable="false">
   <title>Placeholder</title>
-  <image href= '/NERD FOUND.png' width="100%" height="100%" />
+  <Image href= '/NERD FOUND.png' width="100%" height="100%" />
 </svg>
     </div>
   </div>
